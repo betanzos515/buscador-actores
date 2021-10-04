@@ -25,6 +25,6 @@ export const enviarImagen = async (file)=>{
         return await data.json();
         
     } catch (error) {
-        console.log(error)
+        return false;
     }
 }

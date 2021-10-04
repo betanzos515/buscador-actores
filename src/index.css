@@ -13,6 +13,14 @@
   align-items: center;
 }
 
+.error{
+  background: #FF0000;
+  color: white;
+  padding: 1rem;
+  text-align: center;
+  font-weight: bold;
+  border-radius: 5px;
+}
 
 .ant-upload-text{
   font-weight: bold;
@@ -68,6 +76,35 @@
   text-align: justify;
   display: flex;
   flex-direction: column;
+  justify-content: center;
+}
+
+.pelicula{
+  border-bottom: 1px solid #E5E8E8;
+}
+
+.puntaje-info{
+  font-size: 1rem;
+  font-weight: bold;
+  flex-basis: calc(21%);
+}
+.puntaje{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.fas{
+  margin-left: 100px !important;
+  color:#F1C40F;
+}
+
+.genero{
+  background:#F4D03F;
+  color:white;  
+  padding: 5px;
+  border-radius: 5px;
+  margin-bottom: 1rem;
 }
 
 @media (max-width: 700px) {

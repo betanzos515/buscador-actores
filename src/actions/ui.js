@@ -4,14 +4,19 @@ import { obtenerInfo } from "../helpers/obtenerInfo";
 
 
 export const buscarActor = (file) => {
-    return async (dispatch, getState) => {
+    return async (dispatch) => {
         try {
             const data = await enviarImagen(file);
-            const { actorName } = data;
-            const infoActor =  await obtenerInfo(actorName);
-            console.log(infoActor);
-            dispatch(establecerActor(actorName));
-            dispatch(establecerInfo(infoActor));
+            const { error } = data;
+            if(error !== ''){
+                dispatch(establecerError());
+            }else{
+                const { actorName } = data;
+                const infoActor =  await obtenerInfo(actorName);
+                dispatch(establecerActor(actorName));
+                dispatch(establecerInfo(infoActor));
+            }
+
         } catch (error) {
             console.log('Ha ocurrido un error');
         }
@@ -20,7 +25,8 @@ export const buscarActor = (file) => {
 
 export const establecerActor = (actor)=>({
     type : types.establecerActor,
-    payload: actor
+    payload: actor,
+    error:false
 });
 
 export const establecerInfo = (info)=>({
@@ -31,4 +37,8 @@ export const establecerInfo = (info)=>({
 export const borrarState = ()=>({
     type: types.limpiarState,
 })
+
+export const establecerError = ()=>({
+    type: types.establecerError
+});
 

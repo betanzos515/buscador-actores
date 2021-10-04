@@ -11,7 +11,7 @@ const { Dragger } = Upload;
 export const DragImagen = () => {
     
     const dispatch = useDispatch();
-    const { actor } = useSelector(state => state.actor);
+    const { actor, error } = useSelector(state => state.actor);
     const history = useHistory();
     
     useEffect(() => {
@@ -33,17 +33,20 @@ export const DragImagen = () => {
     };
 
     return (
-            <Dragger {...props}  className='dragger'
-            accept='.png, .jpg, .JPG, .PNG'
-            >
-                <p className="ant-upload-drag-icon">
-                <InboxOutlined style={{fontSize:'4rem'}}/>
-                </p>
-                <p className="ant-upload-text">Haga clic o arrastre el archivo a esta área para cargarlo
-                </p>
-                <p className="ant-upload-hint">
-                Los archivos soportados son : .jpg / .png
-                </p>
-            </Dragger>
+            <>
+                { error ? <p className='error'>Hubo un error, intenta con otra imagen</p> : null}
+                <Dragger {...props}  className='dragger'
+                accept='.png, .jpg, .JPG, .PNG'
+                >
+                    <p className="ant-upload-drag-icon">
+                    <InboxOutlined style={{fontSize:'4rem'}}/>
+                    </p>
+                    <p className="ant-upload-text">Haga clic o arrastre el archivo a esta área para cargarlo
+                    </p>
+                    <p className="ant-upload-hint">
+                    Los archivos soportados son : .jpg / .png
+                    </p>
+                </Dragger>
+            </>
     )
 }

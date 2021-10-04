@@ -6,23 +6,26 @@ const { Title } = Typography;
 
 export const Pelicula = ({pelicula}) => {
 
-    const { titulo, puntaje, descripcion, imagen, estreno } = pelicula;
-
+    const { titulo, puntaje, descripcion, imagen, lanzamiento } = pelicula;
+    const urlImage = `https://image.tmdb.org/t/p/w500${imagen}`;
     return (
         <div className='pelicula'>
             <div className="header-pelicula">
                 <Title level={2}>{titulo}</Title>
-                <div>
-                    {puntaje}/10
+                <div className='puntaje-info'>
+                    <div className='puntaje'>
+                        <i class="fas fa-star"></i>
+                        <div>{puntaje}/10 </div> 
+                    </div>
                 </div>
             </div>       
             <div className="contenedor-pelicula">   
                 <div className='imagen-pelicual'>
-                    <ImgActor ruta={imagen}/>
+                    <ImgActor ruta={urlImage}/>
                 </div>
                 <div className='contenido-pelicula'>
                     <p>{descripcion}</p>
-                    <p><strong>Fecha de estreno :</strong>{estreno}</p>
+                    <p><strong>Fecha de estreno :</strong>{lanzamiento}</p>
                 </div>
             </div> 
         </div>

@@ -18,7 +18,12 @@ export const actorReducer = ( state = initialState, action )=>{
                 info: action.payload
             }
         case types.limpiarState:
-            return initialState
+            return initialState;
+        case types.establecerError:
+            return{
+                ...state,
+                error:true
+            }
         default:
             return state
     }
