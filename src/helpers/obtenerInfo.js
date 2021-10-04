@@ -1,6 +1,5 @@
 // eslint-disable-next-line
 import { ColumnGroup } from "rc-table";
-import { Toast } from "./toast";
 
 export const obtenerInfo = async (actor)=>{
     console.log(actor);

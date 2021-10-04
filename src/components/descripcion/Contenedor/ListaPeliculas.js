@@ -1,5 +1,4 @@
 import React from 'react'
-import { peliculas } from '../../../helpers/info'
 import { Pelicula } from './Pelicula'
 import { useSelector } from 'react-redux'
 
