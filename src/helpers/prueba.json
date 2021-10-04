@@ -1,0 +1,325 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "gender": 1,
+            "id": 54693,
+            "known_for": [
+                {
+                    "adult": false,
+                    "backdrop_path": "/ik2D3KqxFD0O0Bc3Wv1CZm8sOg8.jpg",
+                    "genre_ids": [
+                        35,
+                        18,
+                        10749,
+                        10402
+                    ],
+                    "id": 313369,
+                    "media_type": "movie",
+                    "original_language": "en",
+                    "original_title": "La La Land",
+                    "overview": "Mia, an aspiring actress, serves lattes to movie stars in between auditions and Sebastian, a jazz musician, scrapes by playing cocktail party gigs in dingy bars, but as success mounts they are faced with decisions that begin to fray the fragile fabric of their love affair, and the dreams they worked so hard to maintain in each other threaten to rip them apart.",
+                    "poster_path": "/uDO8zWDhfWwoFdKS4fzkUJt0Rf0.jpg",
+                    "release_date": "2016-11-29",
+                    "title": "La La Land",
+                    "video": false,
+                    "vote_average": 7.9,
+                    "vote_count": 13614
+                },
+                {
+                    "adult": false,
+                    "backdrop_path": "/xYz4u1jWCKyXGzddMJeOL845DTr.jpg",
+                    "genre_ids": [
+                        28,
+                        12,
+                        14
+                    ],
+                    "id": 1930,
+                    "media_type": "movie",
+                    "original_language": "en",
+                    "original_title": "The Amazing Spider-Man",
+                    "overview": "Peter Parker is an outcast high schooler abandoned by his parents as a boy, leaving him to be raised by his Uncle Ben and Aunt May. Like most teenagers, Peter is trying to figure out who he is and how he got to be the person he is today. As Peter discovers a mysterious briefcase that belonged to his father, he begins a quest to understand his parents' disappearance – leading him directly to Oscorp and the lab of Dr. Curt Connors, his father's former partner. As Spider-Man is set on a collision course with Connors' alter ego, The Lizard, Peter will make life-altering choices to use his powers and shape his destiny to become a hero.",
+                    "poster_path": "/jIfkQNARYyERqRAq1p1c8xgePp4.jpg",
+                    "release_date": "2012-06-23",
+                    "title": "The Amazing Spider-Man",
+                    "video": false,
+                    "vote_average": 6.6,
+                    "vote_count": 13360
+                },
+                {
+                    "adult": false,
+                    "backdrop_path": "/pDqwUJJSaHIv2sxyRYfmYBFeU9C.jpg",
+                    "genre_ids": [
+                        18,
+                        35
+                    ],
+                    "id": 194662,
+                    "media_type": "movie",
+                    "original_language": "en",
+                    "original_title": "Birdman or (The Unexpected Virtue of Ignorance)",
+                    "overview": "A fading actor best known for his portrayal of a popular superhero attempts to mount a comeback by appearing in a Broadway play. As opening night approaches, his attempts to become more altruistic, rebuild his career, and reconnect with friends and family prove more difficult than expected.",
+                    "poster_path": "/umy673Pxug9rJRMoJM1TPHs62rZ.jpg",
+                    "release_date": "2014-08-27",
+                    "title": "Birdman or (The Unexpected Virtue of Ignorance)",
+                    "video": false,
+                    "vote_average": 7.5,
+                    "vote_count": 10743
+                }
+            ],
+            "known_for_department": "Acting",
+            "name": "Emma Stone",
+            "popularity": 21.135,
+            "profile_path": "/2hwXbPW2ffnXUe1Um0WXHG0cTwb.jpg"
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 2080867,
+            "known_for": [
+                {
+                    "adult": false,
+                    "genre_ids": [
+                        53
+                    ],
+                    "id": 87713,
+                    "media_type": "movie",
+                    "original_language": "en",
+                    "original_title": "White Angel",
+                    "overview": "Ellen Carter's career is on the rocks. She hasn't written a worthy novel since her husband went missing and she was suspected by the police of murdering him. To top it all off, she has reason to believe that her new tenant Leslie Steckler is the serial killer responsible for a number of deaths in the region. But what she doesn't know is that, in the meantime, Steckler has discovered a little secret about her...",
+                    "poster_path": "/6rnsRUNswoP4pXWUI1RXqirgW9V.jpg",
+                    "release_date": "1994-04-15",
+                    "title": "White Angel",
+                    "video": false,
+                    "vote_average": 3,
+                    "vote_count": 2
+                }
+            ],
+            "known_for_department": "Acting",
+            "name": "Emma Stone",
+            "popularity": 0.6,
+            "profile_path": null
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 2374117,
+            "known_for": [
+                {
+                    "adult": false,
+                    "backdrop_path": "/jorgjEk6a0bed6jdR5wu4S6ZvRm.jpg",
+                    "genre_ids": [
+                        28,
+                        12,
+                        14,
+                        878
+                    ],
+                    "id": 141052,
+                    "media_type": "movie",
+                    "original_language": "en",
+                    "original_title": "Justice League",
+                    "overview": "Fuelled by his restored faith in humanity and inspired by Superman's selfless act, Bruce Wayne and Diana Prince assemble a team of metahumans consisting of Barry Allen, Arthur Curry and Victor Stone to face the catastrophic threat of Steppenwolf and the Parademons who are on the hunt for three Mother Boxes on Earth.",
+                    "poster_path": "/eifGNCSDuxJeS1loAXil5bIGgvC.jpg",
+                    "release_date": "2017-11-15",
+                    "title": "Justice League",
+                    "video": false,
+                    "vote_average": 6.2,
+                    "vote_count": 10791
+                },
+                {
+                    "adult": false,
+                    "backdrop_path": "/xhSFoFw0qfDqEAByZrfPL3ZPycN.jpg",
+                    "genre_ids": [
+                        35,
+                        18,
+                        10749
+                    ],
+                    "id": 444288,
+                    "media_type": "movie",
+                    "original_language": "es",
+                    "original_title": "Tierra firme",
+                    "overview": "Eva and Kat enjoy a carefree existence on their houseboat on a London canal. Until Eva's dream of becoming a mother is reignited by the death of their pet. Kat just wants to get a new cat. But when Kat's best friend, Roger, visits from Barcelona, they decide in a moment of drunkenness that he can be Eva's sperm donor. But what are the consequences for the lesbian couple, the biological father, the child and their relationships with one another?",
+                    "poster_path": "/iR7Zb6jyuflNaUnLOEh7UX0fE6f.jpg",
+                    "release_date": "2017-11-24",
+                    "title": "Anchor and Hope",
+                    "video": false,
+                    "vote_average": 5.3,
+                    "vote_count": 21
+                },
+                {
+                    "adult": false,
+                    "genre_ids": [
+                        18,
+                        53
+                    ],
+                    "id": 617675,
+                    "media_type": "movie",
+                    "original_language": "en",
+                    "original_title": "Aamir",
+                    "overview": "13 year old Aamir is stranded alone in the largest unofficial refugee camp in Europe. When he is befriended by Katlyn, a thinly stretched volunteer, she becomes Aamir's last hope for salvation.",
+                    "poster_path": "/12R5I7KrNZ87M1SHLBk6FuMMLBd.jpg",
+                    "release_date": "2017-10-01",
+                    "title": "Aamir",
+                    "video": false,
+                    "vote_average": 0,
+                    "vote_count": 0
+                }
+            ],
+            "known_for_department": "Production",
+            "name": "Emma Stone",
+            "popularity": 0.6,
+            "profile_path": null
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 3221815,
+            "known_for": [],
+            "known_for_department": "Production",
+            "name": "Emma Stone",
+            "popularity": 0.6,
+            "profile_path": null
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 2718613,
+            "known_for": [
+                {
+                    "adult": false,
+                    "genre_ids": [
+                        35,
+                        18
+                    ],
+                    "id": 726324,
+                    "media_type": "movie",
+                    "original_language": "en",
+                    "original_title": "Lonesome Desert Cactus",
+                    "overview": "An isolated introverted man who lives an airstream talks to himself before going on a date with a pessimistic extraverted woman and has trouble communicating his thoughts. Meanwhile, he escapes to a fantasy where he has no problem connecting with her.",
+                    "poster_path": "/hcX0L07j0bEVNVv2dBqECwPDkpN.jpg",
+                    "release_date": "2019-12-04",
+                    "title": "Lonesome Desert Cactus",
+                    "video": false,
+                    "vote_average": 0,
+                    "vote_count": 0
+                }
+            ],
+            "known_for_department": "Acting",
+            "name": "Emma Stone",
+            "popularity": 0.6,
+            "profile_path": null
+        },
+        {
+            "adult": false,
+            "gender": 0,
+            "id": 2887862,
+            "known_for": [
+                {
+                    "adult": false,
+                    "backdrop_path": "/oob2AYWAjsh77FJGffAdEUtzTQ9.jpg",
+                    "genre_ids": [
+                        99,
+                        10402
+                    ],
+                    "id": 774368,
+                    "media_type": "movie",
+                    "original_language": "en",
+                    "original_title": "Times Like Those: Foo Fighters 25th Anniversary",
+                    "overview": "Maybe the 25th anniversary year didn't go *quite* as planned but we were still able to come together for a look back at the last 25 years.",
+                    "poster_path": "/kCayYmvn8R9L1SUu33b9kaH7MOh.jpg",
+                    "release_date": "2020-11-23",
+                    "title": "Times Like Those: Foo Fighters 25th Anniversary",
+                    "video": false,
+                    "vote_average": 0,
+                    "vote_count": 0
+                }
+            ],
+            "known_for_department": "Production",
+            "name": "Emma Stoneberg",
+            "popularity": 0.6,
+            "profile_path": null
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 6
+}
+
+
+{
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 234352,
+        "known_for": [
+          {
+            "adult": false,
+            "backdrop_path": "/cWUOv3H7YFwvKeaQhoAQTLLpo9Z.jpg",
+            "genre_ids": [
+              80,
+              18,
+              35
+            ],
+            "id": 106646,
+            "media_type": "movie",
+            "original_language": "en",
+            "original_title": "The Wolf of Wall Street",
+            "overview": "A New York stockbroker refuses to cooperate in a large securities fraud case involving corruption on Wall Street, corporate banking world and mob infiltration. Based on Jordan Belfort's autobiography.",
+            "poster_path": "/pWHf4khOloNVfCxscsXFj3jj6gP.jpg",
+            "release_date": "2013-12-25",
+            "title": "The Wolf of Wall Street",
+            "video": false,
+            "vote_average": 8,
+            "vote_count": 18353
+          },
+          {
+            "adult": false,
+            "backdrop_path": "/sMRwI5trKI6qhxYcjPgGghmPBef.jpg",
+            "genre_ids": [
+              28,
+              12,
+              14
+            ],
+            "id": 297761,
+            "media_type": "movie",
+            "original_language": "en",
+            "original_title": "Suicide Squad",
+            "overview": "From DC Comics comes the Suicide Squad, an antihero team of incarcerated supervillains who act as deniable assets for the United States government, undertaking high-risk black ops missions in exchange for commuted prison sentences.",
+            "poster_path": "/xFw9RXKZDvevAGocgBK0zteto4U.jpg",
+            "release_date": "2016-08-03",
+            "title": "Suicide Squad",
+            "video": false,
+            "vote_average": 5.9,
+            "vote_count": 17976
+          },
+          {
+            "adult": false,
+            "backdrop_path": "/oRiUKwDpcqDdoLwPoA4FIRh3hqY.jpg",
+            "genre_ids": [
+              35,
+              18,
+              53
+            ],
+            "id": 466272,
+            "media_type": "movie",
+            "original_language": "en",
+            "original_title": "Once Upon a Time… in Hollywood",
+            "overview": "Los Angeles, 1969. TV star Rick Dalton, a struggling actor specializing in westerns, and stuntman Cliff Booth, his best friend, try to survive in a constantly changing movie industry. Dalton is the neighbor of the young and promising actress and model Sharon Tate, who has just married the prestigious Polish director Roman Polanski…",
+            "poster_path": "/8j58iEBw9pOXFD2L0nt0ZXeHviB.jpg",
+            "release_date": "2019-07-24",
+            "title": "Once Upon a Time… in Hollywood",
+            "video": false,
+            "vote_average": 7.5,
+            "vote_count": 9356
+          }
+        ],
+        "known_for_department": "Acting",
+        "name": "Margot Robbie",
+        "popularity": 28.133,
+        "profile_path": "/euDPyqLnuwaWMHajcU3oZ9uZezR.jpg"
+      }
+    ],
+    "total_pages": 1,
+    "total_results": 1
+  }

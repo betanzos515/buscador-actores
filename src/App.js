@@ -1,24 +1,24 @@
-import logo from './logo.svg';
-import './App.css';
+import { DragImagen } from "./components/principal/DragImagen";
+import { Titulo } from "./components/principal/Titulo";
+
+import { Row, Space, Col } from "antd";
+
+
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+      <div className='root'>
+        <Row justify='center' align='center'>
+          <Space direction='vertical'>
+            <Col 
+              className='container' 
+              xs={24}sm={24} span={24}>
+              <Titulo mensaje='¿Quién es ese actor?'/>  
+              <DragImagen />
+            </Col>
+          </Space>
+        </Row>
+      </div>
   );
 }
 
