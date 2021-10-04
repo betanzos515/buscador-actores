@@ -12,3 +12,8 @@ Una vez terminando de instalar el proyecto ejecutamos con :
 ```
 npm run start
 ```
+Aqui te dejo un link para que puedas probarlo en produccion en caso de tener algún problema ejecutandolo en su entorno local.
+
+```
+
+```
