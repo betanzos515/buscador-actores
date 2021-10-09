@@ -16,7 +16,6 @@ export const buscarActor = (file) => {
                 dispatch(establecerActor(actorName));
                 dispatch(establecerInfo(infoActor));
             }
-
         } catch (error) {
             console.log('Ha ocurrido un error');
         }

@@ -14,7 +14,7 @@ export const Pelicula = ({pelicula}) => {
                 <Title level={2}>{titulo}</Title>
                 <div className='puntaje-info'>
                     <div className='puntaje'>
-                        <i class="fas fa-star"></i>
+                        <i className="fas fa-star"></i>
                         <div>{puntaje}/10 </div> 
                     </div>
                 </div>

@@ -3,9 +3,17 @@ import { Col, Row, Space, Layout } from 'antd';
 import { NavBar } from './Navbar';
 import { Sider } from './Sider/Sider';
 import { Contenedor } from './Contenedor/Contenedor';
-
+import { useSelector } from 'react-redux';
+import { Redirect } from 'react-router-dom';
 
 export const PantallaInfo = () => {
+    
+    const actor  = useSelector(state => state.actor);
+
+    if(actor.actor === ''){
+        return (<Redirect to='/'/>)    
+    }
+    
     return (    
         <div className='root'>
             <Row style={{width:'80%'}} justify='center' align='center' xs={24}>

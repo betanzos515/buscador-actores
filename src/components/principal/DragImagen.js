@@ -16,7 +16,7 @@ export const DragImagen = () => {
     
     useEffect(() => {
         if(actor !== ''){
-            history.replace('/descripcion');
+            history.push('/descripcion');
         }
     // eslint-disable-next-line
     }, [actor])

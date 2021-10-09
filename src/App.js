@@ -3,9 +3,8 @@ import { Titulo } from "./components/principal/Titulo";
 
 import { Row, Space, Col } from "antd";
 
-
-
 function App() {
+  
   return (
       <div className='root'>
         <Row justify='center' align='center'>
