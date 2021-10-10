@@ -5,11 +5,14 @@ import { Sider } from './Sider/Sider';
 import { Contenedor } from './Contenedor/Contenedor';
 import { useSelector } from 'react-redux';
 import { Redirect } from 'react-router-dom';
+import { useHistory } from 'react-router';
 
 export const PantallaInfo = () => {
     
     const actor  = useSelector(state => state.actor);
-
+    const history = useHistory();
+    console.log(history);
+    
     if(actor.actor === ''){
         return (<Redirect to='/'/>)    
     }

@@ -13,7 +13,7 @@ export const AppRoutes = () => {
             <div>
                 <Switch>
                     <Route exact path={'/'} component={App} />
-                    <Route exact path={'/descripcion'} component={PantallaInfo}/>
+                    <Route exact path={'/descripcion'} component={PantallaInfo} />
                     <Redirect to={'/'} />
                 </Switch>                   
             </div>
